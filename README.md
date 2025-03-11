@@ -137,10 +137,6 @@
 ### [✨ DDD와 애플리케이션 아키텍처 설계](https://www.notion.so/teamsparta/DDD-164ff65aa200432ab8f8d011876a500a?pvs=4) <br />
 ### [✨ Jacoco와 SonarQube 적용](https://www.notion.so/teamsparta/JaCoCo-SonarQube-13d0075e532d42c3a49d6d775ecf9d6d?pvs=4) <br />
 ### [✨ 선착순 쿠폰 발급 동시성 처리 방법](https://www.notion.so/teamsparta/db834834d52f4e699eaef609b8fd0867?pvs=4) <br />
-### [✨ 호텔 예약 동시성 처리 방법](https://www.notion.so/teamsparta/f6ee0b4da13d442481930c4428cd4958?pvs=4) <br />
-### [✨ Redis 원자성 보장하기](https://www.notion.so/teamsparta/Redis-300cd87664d84bc5b5df8d6d069a6cb7?pvs=4) <br />
-### [✨ Spring Batch를 활용한 Redis & DB 동기화](https://www.notion.so/teamsparta/Spring-Batch-Redis-DB-5bb6f7f16218461280e506774dd2a12d?pvs=4) <br />
-### [✨ Prometheus와 Grafana를 이용한 실시간 모니터링](https://www.notion.so/teamsparta/Prometheus-Grafana-1832dc3ef514816fb395faa1fbc04a3d?pvs=4)
 
 <br/>
 
@@ -149,8 +145,6 @@
 ### [🚀 선착순 쿠폰 발급 서비스 설계기](https://www.notion.so/teamsparta/84351178213c4b718dd564c4685684f4?pvs=4) <br />
 ### [🚀 도메인 로직과 이벤트 발행의 원자성 보장하기](https://www.notion.so/teamsparta/1ba43d212aaf4f6e86733795327a7cc8?pvs=4) <br />
 ### [🚀 조건부 속성 문제 해결기 (DDD + Factory Method)](https://www.notion.so/teamsparta/DDD-Factory-Method-0b993e2e7aa6469aadc1de9ca3f1bdc8?pvs=4) <br />
-### [🚀 요금 스케줄링 bulk insert (매일 1만 개 데이터)](https://www.notion.so/teamsparta/bulk-insert-1-dbc1fac63d304940b1d6fa32f50fd897?pvs=4) <br />
-### [🚀 더티체킹으로 인한 업데이트 동시성 문제 해결기](https://yearweekend.notion.site/18178453701480f5b1d8d9f60d980872?pvs=4) <br />
 
 <br/><br/>
 
